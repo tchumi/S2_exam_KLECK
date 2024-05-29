@@ -1,0 +1,1 @@
+*/1 * * 4-12,1 * ~/exam_KLECK/exam_bash/exam.sh

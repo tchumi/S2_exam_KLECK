@@ -1,0 +1,119 @@
+1. Affichez le nombre d'attributs par document et le nom de chaque personnage.
+{
+  "name": "Luke Skywalker",
+  "count": 17
+}
+{
+  "name": "C-3PO",
+  "count": 17
+}
+{
+  "name": "R2-D2",
+  "count": 17
+}
+
+---------------------------------
+
+2. Combien y a-t-il de valeur unknown pour l'attribut birth_year
+{
+  "birth_year": "unknown",
+  "count": 42
+}
+
+---------------------------------
+
+3. Affichez la date de création de chaque personnage et son nom.
+[
+  "Luke Skywalker",
+  "2014-12-09"
+]
+[
+  "C-3PO",
+  "2014-12-10"
+]
+[
+  "R2-D2",
+
+---------------------------------
+
+4. Retrouvez toutes les pairs d'ids (2 ids) des personnages nés en même temps.
+{
+  "birth_year": "19BBY",
+  "id": 1,
+  "count": 2
+}
+{
+  "birth_year": "19BBY",
+  "id": 5,
+  "count": 2
+}
+{
+  "birth_year": "41.9BBY",
+  "id": 4,
+  "count": 2
+}
+{
+  "birth_year": "41.9BBY",
+  "id": 11,
+  "count": 2
+}
+{
+  "birth_year": "52BBY",
+  "id": 6,
+  "count": 2
+}
+{
+  "birth_year": "52BBY",
+  "id": 36,
+  "count": 2
+}
+{
+  "birth_year": "72BBY",
+  "id": 43,
+  "count": 2
+}
+{
+  "birth_year": "72BBY",
+  "id": 51,
+  "count": 2
+}
+{
+  "birth_year": "82BBY",
+  "id": 21,
+  "count": 2
+}
+{
+  "birth_year": "82BBY",
+  "id": 62,
+  "count": 2
+}
+{
+  "birth_year": "92BBY",
+  "id": 32,
+  "count": 2
+}
+{
+  "birth_year": "92BBY",
+  "id": 52,
+  "count": 2
+}
+
+---------------------------------
+
+5. Renvoyez le numéro du premier film (de la liste) dans lequel chaque personnage a été vu suivi du nom du personnage.
+[
+  "6/",
+  "Luke Skywalker"
+]
+[
+  "5/",
+  "C-3PO"
+]
+[
+  "5/",
+
+---------------------------------
+
+
+----------------BONUS----------------
+
